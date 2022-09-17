@@ -2,4 +2,4 @@
 
 ten : nguyen bao anh
 ngay : 29/10/2007
-lam mot minh
+mong moi nguoi ung ho <3
